@@ -1,3 +1,7 @@
+fastapi
+uvicorn
 faiss-cpu
+sentence-transformers
 langchain-google-genai
-sentence-transfomers
+python-dotenv
+numpy
